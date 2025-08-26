@@ -155,6 +155,7 @@ GPU-P (or GPU-PV) is a paravirtualization technology that allows multiple virtua
 | :--- | :--- | :--- | :--- |:--- | :--- | :--- | :--- | :--- | :--- |
 | **Nvidia** | RTX 4090 | Ada Lovelace | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | **Nvidia** | RTX 4080 Super | Ada Lovelace | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
+| **Nvidia** | RTX 4070 | Ada Lovelace | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | **Nvidia** | GTX 1050 | Pascal | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | |
 | **Nvidia** | GT 210 | Tesla | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | Not supported |
 | **Intel**| Iris Xe Graphics| Xe-LP | ⚠️ | ✅ | ✅ | ✅ | ✅ | ❌ | Partial hardware recognition| 
